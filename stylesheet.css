@@ -5,3 +5,6 @@ body .m-page {
 	width:auto;
 }
 
+head {
+	background-color:blue;
+}
