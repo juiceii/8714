@@ -1,4 +1,7 @@
 .m-sidebar {
 	left:-300px;
 }
+.m-page {
+	width:-moz available;
+}
 
