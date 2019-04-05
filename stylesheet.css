@@ -1,6 +1,7 @@
 .m-sidebar {
 	left:-400px;
 	width: 4000px;
+	color:red; 
 }
 body .m-page {
 	width:auto;
