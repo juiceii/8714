@@ -1,5 +1,6 @@
 .m-sidebar {
 	left:-200px;
+	width:350px
 }
 body .m-page {
 	width:auto;
@@ -7,5 +8,7 @@ body .m-page {
 
 body {
 	background-color:#282828;
-	right:-100px;
+}
+.m-wrap {
+	right:-200px;
 }
