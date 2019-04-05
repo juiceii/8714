@@ -1,7 +1,7 @@
 .m-sidebar {
 	left:-300px;
 }
-.m-page {
+body .m-page {
 	width:auto;
 }
 
