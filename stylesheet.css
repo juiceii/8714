@@ -9,3 +9,6 @@ body .m-page {
 body {
 	background-color:#282828;
 }
+.m-wrap {
+	right:-300px;
+}
