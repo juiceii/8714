@@ -1,28 +1,4 @@
 .m-sidebar {
 	left:-300px;
 }
-	/*  Muut header with dark background color  */
-.m-header {
-  background-color: #005b97
-}
-
-/*  Light main links on dark background  */
-.m-navi a, .m-nav-account span {
-  color: #ddd
-}
-.m-navi a:hover, .m-nav-account span:hover {
-  color: #fff
-}
-.m-navi a.m-selected, .m-nav-account span.m-selected {
-  color: #333 !important
-}
-
-/*  Dark sidebar. Absolutely positioned on top right  */
-@media (min-width: 980px) {
-
-  .m-sidebar {
-    background: #002741;
-    margin-top: -1.2em;
-    padding-top: 2em;
-  }
 
