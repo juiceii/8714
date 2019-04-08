@@ -1,14 +1,31 @@
+.m-header {
+	position: fixed;
+	z-index: 2;
+	top: 60px;
+}
+.md-full-sidebar, .m-sidebar {
+	position: fixed;
+	top: 100px; 
+}
 .m-sidebar {
-	left:;
-	width:; 
+	width: 17%;
+	right: 10px;
 }
 body .m-page {
-	width:;
+	width: 85%;
 }
 
 body {
 	background-color:#282828;
 }
+.m-wrap, .m-tablet {
+	max-width: unset;
+}
 .m-wrap {
-	;
+	max-width: unset;
+	margin: unset;
+	top: 90px;
+}
+.m-users {
+	visibility: hidden;
 }
