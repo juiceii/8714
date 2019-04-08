@@ -1,28 +1,28 @@
 .m-header {
-	position: fixed;
-	z-index: 2;
-	top: 60px;
+	position: fixed !important;
+	z-index: 2 !important;
+	top: 60px !important;
 }
 .m-sidebar {
 	position: fixed !important;
-	top: 100px; 
-	width: 17%;
-	right: 10px;
+	top: 100px !important; 
+	width: 17% !important;
+	right: 10px !important;
 }
 .m-page {
-	width: 85%;
+	width: 85% !important;
 }
 
 body {
 	background-color:#282828;
 }
 .m-wrap, .m-tablet {
-	max-width:unset;
+	max-width:unset !important;
 }
 .m-wrap {
-	max-width:unset;
-	margin:unset;
-	top: 90px;
+	max-width:unset !important;
+	margin:unset !important;
+	top: 90px !important;
 }
 .m-users {
 	visibility: hidden;
