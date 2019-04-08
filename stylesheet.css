@@ -29,6 +29,9 @@ body {
 	visibility: hidden;
 }
 .md-boxed .m-moot {
-    margin-bottom: 0.2em;
+    margin-bottom: 0.2em !important;
+}
+.md-boxed .m-collapse-all {
+    margin: 1.8em 0 .6em !important;
 }
 
