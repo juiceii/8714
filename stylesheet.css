@@ -19,11 +19,11 @@ body {
 	background-color:#282828;
 }
 .m-wrap, .m-tablet {
-	max-width: unset;
+	max-width: 0;
 }
 .m-wrap {
-	max-width: unset;
-	margin: unset;
+	max-width: 0;
+	margin: 0;
 	top: 90px;
 }
 .m-users {
