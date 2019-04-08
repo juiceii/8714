@@ -4,7 +4,7 @@
 	top: 60px;
 }
 .m-sidebar {
-	position: fixed;
+	position: fixed !important;
 	top: 100px; 
 	width: 17%;
 	right: 10px;
