@@ -35,8 +35,8 @@ body {
     margin: unset !important;
 }
 .m-nav-account {
-    display: inline-block;
-    text-align: right;
+    display: inline-block !important;
+    text-align: right !important;
     width: 48% !important;
 }
 .jlogo {
