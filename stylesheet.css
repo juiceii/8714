@@ -8,14 +8,7 @@
 	top: 100px !important; 
 }
 .m-sidebar {
-	border-left: 1px solid rgba(0,0,0,0.2) !important;
-	display: inline-block !important;
-	vertical-align: top !important;
-	padding: 1.8em 0 0 1.2em !important;
 	width: 17% !important;
-	margin-top: 1.2em !important;
-	font-size: 110% !important;
-	right: 10px !important;
 }
 .m-page {
 	width: 85% !important;
