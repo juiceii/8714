@@ -3,11 +3,9 @@
 	z-index: 2;
 	top: 60px;
 }
-.md-full-sidebar .m-sidebar {
+.m-sidebar {
 	position: fixed;
 	top: 100px; 
-}
-.m-sidebar {
 	width: 17%;
 	right: 10px;
 }
