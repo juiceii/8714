@@ -40,3 +40,7 @@ body {
     top: 0px;
     right: 50%;
 }
+.m-pc.md-dark-sidebar .m-links a.m-selected {
+    background-color: #f67d26 !important;
+    color: rgba(0,0,0,0.8);
+}
