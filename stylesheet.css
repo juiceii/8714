@@ -34,4 +34,8 @@ body {
 .md-boxed .m-collapse-all {
     margin: unset !important;
 }
-
+.m-nav-account {
+    display: inline-block;
+    text-align: right;
+    width: 48% !important;
+}
