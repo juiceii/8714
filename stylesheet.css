@@ -29,3 +29,12 @@ body {
 .m-users {
 	visibility: hidden;
 }
+.m-sidebar {
+	border-left: 1px solid rgba(0,0,0,0.2);
+	display: inline-block;
+	vertical-align: top;
+	padding: 1.8em 0 0 1.2em;
+	width: 17%;
+	margin-top: 1.2em;
+	font-size: 110%;
+}
