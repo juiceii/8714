@@ -32,6 +32,6 @@ body {
     margin-bottom: 0.2em !important;
 }
 .md-boxed .m-collapse-all {
-    margin: 1.8em 0 .6em !important;
+    margin: unset !important;
 }
 
