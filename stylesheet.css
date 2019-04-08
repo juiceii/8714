@@ -39,6 +39,9 @@ body {
     text-align: right;
     width: 48% !important;
 }
-img {
-	border: 20%;
+.jlogo {
+    width: 8%;
+    position: fixed;
+    top: 0px;
+    right: 50%;
 }
