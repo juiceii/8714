@@ -3,7 +3,7 @@
 	z-index: 2;
 	top: 60px;
 }
-.md-full-sidebar, .m-sidebar {
+.md-full-sidebar .m-sidebar {
 	position: fixed;
 	top: 100px; 
 }
