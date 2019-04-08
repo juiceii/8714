@@ -3,9 +3,11 @@
 	z-index: 2 !important;
 	top: 60px !important;
 }
-.m-sidebar {
+.md-full-sidebar .m-sidebar {
 	position: fixed !important;
 	top: 100px !important; 
+}
+.m-sidebar {
 	width: 17% !important;
 	right: 10px !important;
 }
@@ -25,5 +27,5 @@ body {
 	top: 90px !important;
 }
 .m-users {
-	visibility:;
+	visibility: hidden;
 }
