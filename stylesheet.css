@@ -45,8 +45,8 @@ body {
     color: rgba(0,0,0,0.8);
 }
 .md-dark-page .m-pagetitle div::before {
-    color: rgba(66, 194, 18, 0.67);
+    color: rgba(66, 194, 18, 0.67) !important;
 }
 .md-dark-page .m-select label, .md-dark-page .m-collapse-all a, .md-dark-page .m-pagetitle div, .md-dark-page .m-collapse-all .m-icon, .md-dark-page .m-unverified {
-    color: rgba(255, 157, 46, 0.98);
+    color: rgba(255, 157, 46, 0.98) !important;
 }
