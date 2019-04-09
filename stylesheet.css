@@ -74,5 +74,5 @@ form .m-h3, .m-input, .m-right {
 	visibility: hidden !important;
 }
 form .m-field-email, .m-h3, .m-input, .m-right {
-	visibility: visible;  
+	visibility: visible !important;  
 }
