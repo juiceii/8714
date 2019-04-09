@@ -71,5 +71,5 @@ body {
     top: -85px;
 }
 .m-updated {
-	visibility: hidden;
+	visibility: hidden !important;
 }
