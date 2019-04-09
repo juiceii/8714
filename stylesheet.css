@@ -36,10 +36,10 @@ body {
     margin: unset !important;
 }
 .jlogo {
-    width: 8%;
-    position: fixed;
-    top: 0px;
-    right: 50%;
+	width: 130px;
+    	position: fixed;
+    	top: 0px;
+}
 }
 .m-pc.md-dark-sidebar .m-links a.m-selected {
     background-color: #259f1dcc !important;
