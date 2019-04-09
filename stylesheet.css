@@ -62,3 +62,14 @@ body {
 .m-pc.md-dark-sidebar .m-links a, .m-pc.md-dark-sidebar .m-subs p, .m-pc.md-dark-sidebar .m-anon-count {
     color: rgba(237, 149, 16, 0.91) !important;
 }
+.m-form {
+	top: 20px;
+}
+.m-account form {
+    margin-bottom: 1.8em;
+    position: relative;
+    top: -85px;
+}
+.m-updated {
+	visibility: hidden;
+}
