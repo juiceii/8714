@@ -70,6 +70,6 @@ body {
     position: relative;
     top: -85px;
 }
-form .m-h3 {
+form .m-h3, .m-input, .m-right {
 	visibility: hidden !important;
 }
