@@ -29,6 +29,9 @@ body {
 .m-users {
 	visibility: hidden;
 }
+.m-nav-online {
+	visibility: hidden;
+}
 .md-boxed .m-moot {
     margin-bottom: 0.2em !important;
 }
