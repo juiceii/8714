@@ -70,6 +70,6 @@ body {
     position: relative;
     top: -85px;
 }
-.m-updated {
+form .m-h3 {
 	visibility: hidden !important;
 }
