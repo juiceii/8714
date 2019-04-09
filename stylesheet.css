@@ -42,7 +42,12 @@ body {
 	width: 130px;
     	position: fixed;
     	top: 3px;
+	z-index: 2;
 }
+.greybar {
+	position: fixed;
+    	top: 0;
+    	left: -7px;
 }
 .m-pc.md-dark-sidebar .m-links a.m-selected {
     background-color: #259f1dcc !important;
