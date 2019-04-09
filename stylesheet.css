@@ -2,6 +2,7 @@
 	position: fixed !important;
 	z-index: 2 !important;
 	top: 60px !important;
+	left: 0px;
 }
 .md-full-sidebar .m-sidebar {
 	position: fixed !important;
