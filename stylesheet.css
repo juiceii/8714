@@ -70,4 +70,7 @@ body {
     position: relative;
     top: -85px;
 }
+.md-full-sidebar > .m-wrap {
+    position: fixed;
+}
 
