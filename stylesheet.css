@@ -10,8 +10,8 @@
 }
 .m-sidebar {
 	left: 10px;
-	width: -moz-fit-content !important;
-	height: auto !important;
+	width: 180px !important;
+	height: 310px !important;
 }
 .m-page {
 	width: -moz-available !important;
