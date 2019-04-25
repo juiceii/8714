@@ -5,8 +5,8 @@
 	left: 0px !important;
 }
 .md-full-sidebar .m-sidebar {
-	position: fixed !important;
-	top: 100px !important; 
+	position: fixed;
+	top: 100px; 
 	min-height: 0 !important; 
 }
 .m-sidebar {
