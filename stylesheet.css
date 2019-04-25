@@ -10,10 +10,10 @@
 }
 .m-sidebar {
 	left: 10px;
-	width: auto !important;
+	width: -moz-fit-content !important;
 }
 .m-page {
-	width: auto !important;
+	width: -moz-available !important;
 	margin-left: 200px !important;
 	margin-top: 25px !important;
 	display: block !important;
