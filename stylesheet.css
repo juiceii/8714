@@ -11,6 +11,7 @@
 .m-sidebar {
 	left: 10px;
 	width: -moz-fit-content !important;
+	height: auto !important;
 }
 .m-page {
 	width: -moz-available !important;
