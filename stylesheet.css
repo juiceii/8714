@@ -16,6 +16,7 @@
 }
 
 body {
+	margin: 0;
 	background-color:#282828;
 }
 .m-wrap, .m-tablet {
