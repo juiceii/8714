@@ -7,7 +7,7 @@
 .md-full-sidebar .m-sidebar {
 	position: fixed !important;
 	top: 100px !important; 
-	min-height: 0; 
+	min-height: 0 !important; 
 }
 .m-sidebar {
 	left: 10px;
