@@ -14,8 +14,9 @@
 	height: 310px !important;
 }
 .m-page {
-	width: -moz-available !important;
+	width: auto !important;
 	margin-left: 200px !important;
+	margin-right: 10px !important;
 	margin-top: 25px !important;
 	display: block !important;
 	padding: 0 !important;
