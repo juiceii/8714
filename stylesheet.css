@@ -9,10 +9,14 @@
 	top: 100px !important; 
 }
 .m-sidebar {
-	right: -12%;
+	left: 10px;
+	width: auto !important;
 }
 .m-page {
-	width: 85% !important;
+	width: auto !important;
+	margin-left: 200px;
+	display: block;
+	padding: 0;
 }
 
 body {
@@ -74,4 +78,9 @@ body {
 .md-full-sidebar > .m-wrap {
     position: fixed;
 }
-
+.m-tablet .m-page {
+ 	margin: 0;
+}
+.md-boxed.is-forum .m-page {
+    padding-right: 0;
+}
