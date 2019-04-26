@@ -52,6 +52,7 @@ body {
     	position: fixed;
     	top: 3px;
 	z-index: 2;
+	left: 15px;
 }
 .greybar {
 	position: fixed;
