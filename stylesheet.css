@@ -42,7 +42,7 @@ body {
 	visibility: hidden;
 }
 .m-nav-account {
-	padding-right: 10px;
+	padding-right: 10px !important;
 }
 .md-boxed .m-moot {
     margin-bottom: 0.2em !important;
