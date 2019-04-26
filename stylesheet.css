@@ -88,6 +88,7 @@ body {
 }
 .m-tablet .m-page {
  	margin: 0 !important;
+	margin-top: 30px !important;
 }
 .md-boxed.is-forum .m-page {
     padding-right: 0;
