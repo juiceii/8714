@@ -41,6 +41,9 @@ body {
 .m-nav-online {
 	visibility: hidden;
 }
+.m-nav-account {
+	padding-right: 10px;
+}
 .md-boxed .m-moot {
     margin-bottom: 0.2em !important;
 }
