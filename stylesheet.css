@@ -98,3 +98,7 @@ body {
 .m-pagepage .m-pagetitle {
     display: none !important;
 }
+#m-user-profile {
+    margin-bottom: 1.8em;
+    padding-top: 1.7em !important;
+}
