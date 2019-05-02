@@ -76,9 +76,7 @@ body {
 .m-form {
 	top: 25px;
 }
-.m-account form {
-    margin-bottom: 1.8em;
-    position: relative;
+.m-account {
     top: -85px;
 }
 .md-full-sidebar > .m-wrap {
