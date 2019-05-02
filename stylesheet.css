@@ -96,3 +96,6 @@ body {
     width: 0 !important;
     padding: 0;
 }
+.m-pagepage .m-pagetitle {
+    display: none !important;
+}
