@@ -118,3 +118,6 @@ div.m-h3+span+input.m-input {
 .m-email .m-right {
 	display: block !important
 }
+.m-account .m-names .m-h3 {
+		display: block !important
+}
