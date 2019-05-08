@@ -100,3 +100,8 @@ body {
     margin-bottom: 1.8em;
     padding-top: 1.7em !important;
 }
+div.m-h3+span+input.m-input {
+	display:none;}
+
+.m-account [type=email] {
+	display:block !important;}
