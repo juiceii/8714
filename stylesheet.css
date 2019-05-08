@@ -101,7 +101,20 @@ body {
     padding-top: 1.7em !important;
 }
 div.m-h3+span+input.m-input {
-	display:none;}
-
+	display:none;
+}
+.m-account .m-right {
+	display: none;
+}
+.m-account .m-h3 {
+	display:none;
+}
 .m-account [type=email] {
-	display:block !important;}
+	display:block !important;
+}
+.m-email .m-h3 {
+	display: block !important;
+}
+.m-email .m-right {
+	display: block !important
+}
