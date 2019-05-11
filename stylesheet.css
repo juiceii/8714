@@ -5,7 +5,7 @@
 	left: 0px !important;
 }
 .md-full-sidebar .m-sidebar {
-	top: 5px !important;  
+	top: -11px !important;  
 }
 .m-sidebar {
 	left: 10px;
@@ -16,7 +16,7 @@
 	width: auto !important;
 	margin-left: 200px !important;
 	margin-right: 10px !important;
-	margin-top: 10px !important;
+	margin-top: 25px !important;
 	display: block !important;
 	padding: 0 !important;
 }
@@ -74,7 +74,7 @@ body {
     color: rgba(237, 149, 16, 0.91) !important;
 }
 .m-form {
-	top: 25px;
+	top: 10px;
 }
 .m-account {
     top: -85px;
